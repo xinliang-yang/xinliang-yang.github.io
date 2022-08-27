@@ -1,3 +1,4 @@
-theme: Minimal
-title: xinliang's homepage
-description: Bookmark this to keep an eye on my project updates!
+
+# Building block
+theme: Minima
+markdown: kramdown
